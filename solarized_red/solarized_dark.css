@@ -907,7 +907,7 @@ tr.torrent .bookmark > a:after {
 }
 
 div[class~=tooltipster-content] > a {
-	color: #2c3e50;
+	color: #268bd2;
 }
 
 .post_id {
@@ -1119,9 +1119,9 @@ color: #c0392b!important;
 
 .tooltipster-default {
 	border-radius: 5px;
-	border: 2px solid #34495e;
-	background: #268bd2;
-	color: #34495e;
+	border: 2px solid white;
+	background: #2aa198;
+	color: white;
 }
 
 .breadcrumbs {
