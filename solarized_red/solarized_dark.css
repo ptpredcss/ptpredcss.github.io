@@ -225,12 +225,12 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #userinfo ul {
 	display: inline;
-	margin: 0px 0.8%;
+	margin: 0px 0.4%;
 }
 
 #userinfo ul li {
 	display: inline;
-	margin: 0 0.1em;
+	margin: 0;
 	line-height: 20px;
 	/*vertical-align: middle;*/
 }
