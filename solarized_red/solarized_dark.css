@@ -1132,7 +1132,7 @@ textarea:hover {
 }
 
 textarea:focus{
-    border-color:#27ae60;
+    border-color:#2aa198;
 }
 
 select:hover,input[type=text]:hover,input[type="email"]:hover,input[type="password"]:hover,input[type=search]:hover {
@@ -1140,7 +1140,7 @@ select:hover,input[type=text]:hover,input[type="email"]:hover,input[type="passwo
 }
 
 select:focus,input[type=text]:focus,input[type="email"]:focus,input[type="password"]:focus,input[type=search]:focus,{
-    border-color:#27ae60;
+    border-color:#2aa198;
 }
 
 select {
@@ -1193,10 +1193,6 @@ background: #fff;
 
 .colhead_dark a, .head a{
 	color: #34495e;
-}
-
-a{
-	color: #27ae60;
 }
 
 .send_form .label {
