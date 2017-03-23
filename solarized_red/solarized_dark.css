@@ -257,12 +257,12 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #searchbars input {
 	position: relative;
-	border: 2px solid #bdc3c7;
+	border: 2px solid #93a1a1;
 	padding: 9px 33px 9px 10px;
 	font-size: 0.9em;
-	color: #34495e;
+	color: #93a1a1;
 	/* border-radius: 6px; */
-	background: #fff;
+	background: #002b36;
 	box-shadow: none;
 	display: inline-block;
 	transition: 0.3s linear;
@@ -982,8 +982,17 @@ select,input[type="text"],input[type="email"],input[type="password"],input[type=
 	outline: 0;
 	border: none;
 	background: #002b36;
-	border: 2px solid #7f8c8d;
+	border: 2px solid #93a1a1;
+  color: #93a1a1;
 	transition: 0.1s linear;
+}
+
+tr select,tr input[type="text"],tr input[type="email"],tr input[type="password"],tr input[type=search]{
+	background: #073642;
+}
+
+li select,li input[type="text"],li input[type="email"],li input[type="password"],li input[type=search]{
+	background: #073642;
 }
 
 #userinfo {
