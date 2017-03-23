@@ -65,6 +65,8 @@ h1,h2,h3,h4 {
 	font-weight: bold;
 }
 
+h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited {color: #268bd2;}
+
 h1 {color: #859900;}
 h2 {
 	text-align: center;
