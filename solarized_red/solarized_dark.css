@@ -415,9 +415,8 @@ p.min_padding {
 
 .box2 {
 	margin-bottom: 10px;
-	font-size: 8pt;
+	font-size: 10pt;
 	background-color: #fff;
-	/* border-radius: 5px; */
 }
 
 .pad h3, .pad h4, .padbox h3, .padbox h4 {
@@ -432,8 +431,8 @@ p.min_padding {
 
 .head {
 	padding: 5px;
-	background: #2ecc71;
-	color: #34495e;
+	background: #073642;
+	color: white;
 }
 
 .body {
@@ -497,7 +496,7 @@ td, th {
 
 .colhead {
 	font-weight: bold;
-	padding: 7px;  background: #2ecc71;  
+	padding: 7px;  background: #268bd2;  
 	color: #34495e;  border-radius: 5px 5px 0 0;
 }
 
@@ -841,7 +840,7 @@ ul .invitetree {
 
 .center_poll {
 	height: 9px;
-	background: #2ecc71;
+	background: #268bd2;
 	float: left;
 	margin: 0px;
 	padding: 0px;
@@ -1060,7 +1059,7 @@ border-top-left-radius: 5px;
 border-top-right-radius: 5px;
 border-bottom-right-radius: 5px;
 border-bottom-left-radius: 5px;
-border: 3px solid #2ecc71;
+border: 3px solid #268bd2;
 color: rgb(68, 68, 68);
 width: 310px;
 background: #fff;
@@ -1073,7 +1072,7 @@ background-color: #fff;
 }
 
 #noty_bottomRight_layout_container li {
-    overflow: hidden;  margin-top: 5px;  border-top-left-radius: 5px;  border-top-right-radius: 5px;  border-bottom-right-radius: 5px;  border-bottom-left-radius: 5px;  border: 3px solid #2ecc71;  color: rgb(68, 68, 68);  width: 310px;  background: #fff;
+    overflow: hidden;  margin-top: 5px;  border-top-left-radius: 5px;  border-top-right-radius: 5px;  border-bottom-right-radius: 5px;  border-bottom-left-radius: 5px;  border: 3px solid #268bd2;  color: rgb(68, 68, 68);  width: 310px;  background: #fff;
 }
 
 ::-webkit-input-placeholder:focus,::input-placeholder:focus {
@@ -1095,11 +1094,11 @@ input[type=submit],input[type=button] {
 }
 input[type=submit]:active,input[type=button]:active {
 	background: #2aa198;
-	border-color: #16a085;
+	border-color: #2aa198;
 }
 input[type=submit]:hover,input[type=button]:hover,input[type=submit]:focus,input[type=button]:focus {
-	background-color: #2aa198;
-	border-color: #48c9b0;
+	background-color: #b58900;
+	border-color: #b58900;
 	cursor: pointer;
 }
 
@@ -1114,7 +1113,7 @@ color: #c0392b!important;
 .tooltipster-default {
 	border-radius: 5px;
 	border: 2px solid #34495e;
-	background: #2ecc71;
+	background: #268bd2;
 	color: #34495e;
 }
 
@@ -1130,7 +1129,7 @@ textarea {
     background: #eeee;
 }
 textarea:hover {
-    border-color: #2ecc71;
+    border-color: #268bd2;
 }
 
 textarea:focus{
@@ -1138,7 +1137,7 @@ textarea:focus{
 }
 
 select:hover,input[type=text]:hover,input[type="email"]:hover,input[type="password"]:hover,input[type=search]:hover {
-    border-color: #2ecc71;
+    border-color: #268bd2;
 }
 
 select:focus,input[type=text]:focus,input[type="email"]:focus,input[type="password"]:focus,input[type=search]:focus,{
