@@ -30,7 +30,7 @@ html {}
 body {
 	width: 100%;
 	background-color: #002b36;
-	font-size: 8pt;
+	font-size: 10pt;
   font-family: 'Inconsolata', monospace;
 	color: #eee;
 	min-width: 850px;
@@ -162,6 +162,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 	margin-top: 20px;
 	height: 300px;
 	background: url('logo.png') no-repeat;
+  background-size: cover;
 	margin: 0 auto;
 	z-index: 5;
 }
