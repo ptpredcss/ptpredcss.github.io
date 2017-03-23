@@ -191,6 +191,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 #menu ul li {
 	position: relative;
 	display: inline;
+  margin: 5px 5px;
 }
 
 #menu ul li a {
@@ -199,7 +200,8 @@ ul.thin li { margin:0px 0px; padding:0px; }
 	font-weight: bold;
   font-family: 'Inconsolata', monospace;
 	font-weight: 700;
-	font-size: 1.1em;
+	font-size: 1.2em;
+  padding: 0 12px;
 }
 
 #menu ul li a.active {
