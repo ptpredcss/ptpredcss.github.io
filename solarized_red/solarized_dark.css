@@ -407,7 +407,7 @@ p.min_padding {
 }
 
 .box {
-	font-size: 8pt;
+	font-size: 10pt;
 	margin-bottom: 10px;
 }
 
@@ -452,11 +452,10 @@ p.min_padding {
 }
 
 .tags a {
-	color: #222;
+	color: #b58900;
 }
 
 .tags a:hover {
-	color: #444;
 	text-decoration: underline;
 }
 
@@ -494,8 +493,8 @@ td, th {
 
 .colhead {
 	font-weight: bold;
-	padding: 7px;  background: #268bd2;  
-	color: #34495e;  border-radius: 5px 5px 0 0;
+	padding: 7px;  background: #073642;
+	color: white;  border-radius: 5px 5px 0 0;
 }
 
 td.colhead, .colhead td, .colhead th {
@@ -626,10 +625,10 @@ ul.poll li.graph {
 }
 
 .torrent_table tr.group {
-	background-color: #ecf0f1;
+	background-color: #002b36;
 }
 .torrent_table tr.group_torrent {
-	background-color: #fafafa;
+	background-color: #073642;
 }
 .torrent_table tr.torrent {
 	background-color: #073642;
@@ -1001,6 +1000,7 @@ li select,li input[type="text"],li input[type="email"],li input[type="password"]
     width: 100%;
     z-index: 99;
     background: #002b36;
+    text-align: center;
 }
 
 #menu ul{
@@ -1024,7 +1024,7 @@ td.avatar {
 }
 
 .tl_reported {
-    color: #e74c3c;
+    color: #dc322f;
 }
 
 .tl_free {
@@ -1120,7 +1120,7 @@ color: #c0392b!important;
 .tooltipster-default {
 	border-radius: 5px;
 	border: 2px solid white;
-	background: #2aa198;
+	background: #073642;
 	color: white;
 }
 
@@ -1161,7 +1161,7 @@ input, select {
 }
 
 .remove, .remove_artist a {
-    color: #e74c3c;
+    color: #dc322f;
 }
 
 ul.collage_images li {
@@ -1212,7 +1212,7 @@ img.scale_image {
 }
 
 #userinfo ul li a:hover {
-    background: #2980b9;
+    background: #073642;
 }
 
 #userinfo a:hover {
