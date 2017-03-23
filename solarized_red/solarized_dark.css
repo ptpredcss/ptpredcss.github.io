@@ -161,9 +161,9 @@ ul.thin li { margin:0px 0px; padding:0px; }
 }
 
 #logo {
-	width: 465px;
+	width: 590px;
 	margin-top: 20px;
-	height: 300px;
+	height: 380px;
 	background: url('logo.png') no-repeat;
   background-size: cover;
 	margin: auto;
@@ -174,8 +174,8 @@ ul.thin li { margin:0px 0px; padding:0px; }
 #logo a {
 	border: none;
 	display: block;
-	width: 465px;
-	height: 300px;
+	width: 590px;
+	height: 380px;
 }
 
 #logo a:hover {
