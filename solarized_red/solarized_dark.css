@@ -1132,11 +1132,11 @@ color: #c0392b!important;
 textarea {
     outline: none;
     transition: 0.2s border linear;
-    border:2px solid #7f8c8d;
-    background: #eeee;
+    border:2px solid #93a1a1;
+    background: #073642;
 }
 textarea:hover {
-    border-color: #268bd2;
+    border-color: #2aa198;
 }
 
 textarea:focus{
