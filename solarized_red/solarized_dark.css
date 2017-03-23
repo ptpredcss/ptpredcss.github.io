@@ -45,6 +45,8 @@ a, a:hover {
   color: #2aa198;
 }
 
+a:link {color: #268bd2;}
+
 a:hover {
 	text-decoration: underline;
 	color: #b58900;
@@ -521,7 +523,7 @@ td.colhead, .colhead td, .colhead th {
 
 .colhead_dark {
 	background: #073642;
-	color: #34495e;
+	color: white;
 }
 
 td.label {
