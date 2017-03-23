@@ -48,7 +48,6 @@ a, a:hover {
 a:link {color: #268bd2;}
 
 a:hover {
-	text-decoration: underline;
 	color: #b58900;
 }
 
@@ -1032,10 +1031,6 @@ td.avatar {
 
 .tl_free {
     color: #d35400;
-}
-
-a:hover {
-    text-decoration: none;
 }
 
 img[alt="Snatches"] {
