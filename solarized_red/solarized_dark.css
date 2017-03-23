@@ -225,7 +225,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #userinfo ul {
 	display: inline;
-	margin: 0px 0.4%;
+	margin: 0px 10px;
 }
 
 #userinfo ul li {
@@ -237,7 +237,8 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #userinfo a {
 	color: #fff;
-	padding: 5px 4px 4px;
+	padding: 0 1px;
+  font-size: 0.94em;
 }
 #userinfo a:hover {
 	text-decoration: underline;
@@ -1003,6 +1004,7 @@ li select,li input[type="text"],li input[type="email"],li input[type="password"]
     z-index: 99;
     background: #002b36;
     text-align: center;
+    padding-top: 2px;
 }
 
 #menu ul{
