@@ -181,8 +181,6 @@ ul.thin li { margin:0px 0px; padding:0px; }
 }
 
 #menu {
-	position: absolute;
-	top: 20px;
 	width: 1140px;
 	height: 40px;
 	text-align: center;
@@ -209,8 +207,8 @@ ul.thin li { margin:0px 0px; padding:0px; }
 }
 
 #menu ul li a:hover {
-	/*background-color: #27ae60;*/
 	text-decoration: none;
+  background: #073642;
 }
 
 #userinfo {
@@ -248,10 +246,8 @@ ul.thin li { margin:0px 0px; padding:0px; }
 }
 
 #searchbars {
-	position: absolute;
 	text-align: center;
 	padding: 4px 0px;
-	top: 78px;
 	width: 1140px;
 }
 
@@ -401,7 +397,7 @@ p.min_padding {
 
 .pad {
 	padding: 1em;
-	background: #fff;
+	background: #073642;
 }
 
 .vertical_space {
@@ -1002,13 +998,13 @@ li select,li input[type="text"],li input[type="email"],li input[type="password"]
     line-height: 20px;
     width: 100%;
     z-index: 99;
-    background:rgba(0,0,0,.4);
+    background: #002b36;
 }
 
 #menu ul{
 	width: 1140px;
 	margin: 0 auto;
-	text-align: right;
+	text-align: center;
 	line-height: 40px;
 }
 
@@ -1227,3 +1223,6 @@ img.scale_image {
 #user table.recent img{
 	width: 146px;
 }
+
+.autocomplete-suggestions {background: #002b36;}
+.autocomplete-selected {background: #073642;}
