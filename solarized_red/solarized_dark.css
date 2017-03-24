@@ -676,6 +676,7 @@ ul.poll li.graph {
 .read{background: url(images/read.png) no-repeat center center;}
 */
 .unread_locked_sticky::before{
+  color: #859900;
 	content: '\f02d';
 	font: normal normal 16px octicons;
 	line-height: 1;
@@ -684,6 +685,7 @@ ul.poll li.graph {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;}
 .read_locked_sticky::before{
+  color: #859900;
 	content: '\f02d';
 	font: normal normal 16px octicons;
 	line-height: 1;
@@ -692,6 +694,7 @@ ul.poll li.graph {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;}
 .read_sticky::before{
+  color: #859900;
 	content: '\f041';
 	padding-left: 4px;
 	font: normal normal 16px octicons;
@@ -701,6 +704,7 @@ ul.poll li.graph {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;}
 .unread_sticky::before{
+  color: #859900;
 	content: '\f041';
 	padding-left: 4px;
 	font: normal normal 16px octicons;
@@ -710,6 +714,7 @@ ul.poll li.graph {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;}
 .unread_locked::before{
+  color: #859900;
 	content: '\f06a';
 	font: normal normal 16px octicons;
 	line-height: 1;
@@ -718,6 +723,7 @@ ul.poll li.graph {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;}
 .read_locked::before{
+  color: #859900;
 	content: '\f06a';
 	font: normal normal 16px octicons;
 	line-height: 1;
@@ -726,6 +732,7 @@ ul.poll li.graph {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;}
 .unread::before{
+  color: #859900;
 	content: '\f011';
 	font: normal normal 16px octicons;
 	padding-left: 2px;
@@ -735,6 +742,7 @@ ul.poll li.graph {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;}
 .read::before{
+  color: #859900;
 	content: '\f03a';
 	font: normal normal 16px octicons;
 	padding-left: 2px;
@@ -754,7 +762,7 @@ table.forum_post td {
 }
 
 table.forum_unread {
-	border: 2px solid #34495e;
+	border-right: 2px solid #268bd2;
 }
 
 td.avatar {
