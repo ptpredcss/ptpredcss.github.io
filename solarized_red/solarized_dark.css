@@ -206,8 +206,8 @@ ul.thin li { margin:0px 0px; padding:0px; }
   padding: 0 12px;
 }
 
-#menu ul li a.active {
-	background-color: #565656;
+#menu ul li.active a {
+	background-color: #073642;
 }
 
 #menu ul li a:hover {
@@ -252,8 +252,9 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #searchbars {
 	text-align: center;
-	padding: 4px 0px;
+	padding: 12px 0px;
 	width: 1140px;
+  background: #073642;
 }
 
 #searchbars input {
@@ -262,8 +263,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 	padding: 9px 33px 9px 10px;
 	font-size: 0.9em;
 	color: #93a1a1;
-	/* border-radius: 6px; */
-	background: #002b36;
+	background: #073642;
 	box-shadow: none;
 	display: inline-block;
 	transition: 0.3s linear;
