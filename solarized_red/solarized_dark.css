@@ -623,7 +623,7 @@ ul.poll li.graph {
 	vertical-align: top;
 }
 
-.torrent_table tr.torrent, .torrent_table tr.group {
+.torrent_table tr.group {
 	font-weight: bold;
 }
 
