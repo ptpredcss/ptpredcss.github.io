@@ -1240,6 +1240,6 @@ img.scale_image {
 
 #discog_table .box {background: #073642; padding: 4px 0;}
 #discog_table .box a {margin-right: 8px;}
-#discog_table .brackets:before {content: "";}
-#discog_table .brackets:after {content: ">>";padding-left: 2px;font-size: 0.8em;}
+#discog_table .box a.brackets:before {content: "";}
+#discog_table .box a.brackets:after {content: ">>";padding-left: 2px;font-size: 0.8em;}
 .linkbox a.brackets {font-weight: bold;}
