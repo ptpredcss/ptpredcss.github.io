@@ -1243,3 +1243,4 @@ img.scale_image {
 #discog_table .box a.brackets:before {content: "";}
 #discog_table .box a.brackets:after {content: ">>";padding-left: 2px;font-size: 0.8em;}
 .linkbox a.brackets {font-weight: bold;}
+.tl_snatched {color: #859900;}
