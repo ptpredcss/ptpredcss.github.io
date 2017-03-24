@@ -455,11 +455,12 @@ p.min_padding {
 }
 
 .tags a {
-	color: #b58900;
+	color: #93a1a1;
 }
 
 .tags a:hover {
 	text-decoration: underline;
+  color: #b58900;
 }
 
 .noborder {
