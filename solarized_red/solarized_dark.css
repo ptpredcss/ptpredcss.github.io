@@ -925,11 +925,11 @@ div[class~=tooltipster-content] > a {
 }
 
 .vote_tag_up, .vote_artist_up, .vote_album_up, .small_upvote, .small_upvoted {
-	color: #859900;
+	color: #859900 !important;
 }
 
 .vote_tag_down, .vote_artist_down, .vote_album_down, .small_downvote, .small_downvoted {
-	color: #dc322f;
+	color: #dc322f !important;
 }
 
 /* get rid of extraneous padding in the Top Contributors box */
