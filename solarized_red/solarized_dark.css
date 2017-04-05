@@ -1067,27 +1067,18 @@ img[alt="Leechers"] {
     border: 2px solid #2980b9;
 }
 
+#noty_bottomRight_layout_container {right: 40px !important; bottom: 14px !important;}
 #noty_bottomRight_layout_container li {
-overflow: hidden;
-margin-top: 5px;
-border-top-left-radius: 5px;
-border-top-right-radius: 5px;
-border-bottom-right-radius: 5px;
-border-bottom-left-radius: 5px;
-border: 3px solid #268bd2;
-color: rgb(68, 68, 68);
-width: 310px;
-background: #fff;
+  background: #073642 !important;
+  border: 2px solid #2aa198 !important;
+  border-radius: 0 !important;
 }
+
+.noty_message {background: #073642 !important;}
 
 .noty_buttons{
-	padding: 5px;
-text-align: right;
-background-color: #fff;
-}
-
-#noty_bottomRight_layout_container li {
-    overflow: hidden;  margin-top: 5px;  border-top-left-radius: 5px;  border-top-right-radius: 5px;  border-bottom-right-radius: 5px;  border-bottom-left-radius: 5px;  border: 3px solid #268bd2;  color: rgb(68, 68, 68);  width: 310px;  background: #fff;
+  background: #073642 !important;
+  border: none !important;
 }
 
 ::-webkit-input-placeholder:focus,::input-placeholder:focus {
