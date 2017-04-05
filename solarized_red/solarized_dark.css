@@ -636,6 +636,9 @@ table.release_table {border-top: 2px solid #2aa198;}
 .torrent_table tr.group:nth-child(n+3) {
   border-top: 4px solid #002b36;
 }
+.torrent_table tr.torrent:nth-child(n+3) {
+  border-top: 4px solid #002b36;
+}
 .torrent_table tr.group_torrent {
 	background-color: #073642;
 }
