@@ -630,7 +630,7 @@ ul.poll li.graph {
 .torrent_table tr.group {
 	background-color: #073642;
 }
-.torrent_table tr.group + .torrent_table tr.group {
+.torrent_table tr.group:nth-child(n+2) {
   border-top: 8px solid #002b36;
 }
 .torrent_table tr.group_torrent {
