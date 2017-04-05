@@ -412,6 +412,7 @@ p.min_padding {
 .box {
 	font-size: 10pt;
 	margin-bottom: 10px;
+  background: #073642;
 }
 
 .box2 {
