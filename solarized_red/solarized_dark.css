@@ -628,13 +628,16 @@ ul.poll li.graph {
 }
 
 .torrent_table tr.group {
-	background-color: #002b36;
+	background-color: #073642;
+}
+.torrent_table tr.group + .torrent_table tr.group {
+  border-top: 8px solid #002b36;
 }
 .torrent_table tr.group_torrent {
 	background-color: #073642;
 }
 .torrent_table tr.torrent {
-	background-color: #002b36;
+	background-color: #073642;
 }
 
 .torrent_table div.tags {
