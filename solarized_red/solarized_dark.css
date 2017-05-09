@@ -68,7 +68,7 @@ a:hover {
 
 h1,h2,h3,h4 {
 	margin: 5px 0px;
-	font-weight: 500;
+	font-weight: bold;
 }
 
 h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited {color: #268bd2;}
@@ -206,9 +206,9 @@ ul.thin li { margin:0px 0px; padding:0px; }
 #menu ul li a {
 	display: inline-block;
 	color: #fff;
-	font-weight: 500;
+	font-weight: bold;
   font-family: 'iosevkaregular', monospace;
-	font-weight: 700;
+	font-weight: bold;
 	font-size: 1.2em;
   padding: 0 12px;
 }
@@ -254,7 +254,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 #userinfo b a {
 	font-weight: normal;
 	font-size: 0.9em;
-	font-weight: 500;
+	font-weight: bold;
 }
 
 #searchbars {
@@ -338,7 +338,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 	background-color: #fff;
 	text-align: center;
 	color: #444;
-	font-weight: 500;
+	font-weight: bold;
 	font-size: 0.95em;
 	width: 350px;
 	margin: 0px auto 0px auto;
@@ -378,11 +378,11 @@ input.hidden {
 }
 
 #userinfo_major .brackets:before {
-	font-weight: 500;
+	font-weight: bold;
 }
 
 #userinfo_major .brackets:after {
-	font-weight: 500;
+	font-weight: bold;
 }
 
 div.linkbox {
@@ -503,7 +503,7 @@ td, th {
 }
 
 .colhead {
-	font-weight: 500;
+	font-weight: bold;
 	padding: 7px;  background: #073642;
 	color: white;  border-radius: 5px 5px 0 0;
 }
@@ -518,14 +518,14 @@ td.colhead, .colhead td, .colhead th {
 	vertical-align: middle;
 	text-align: center;
 	font-size: 12pt;
-	font-weight: 500;
+	font-weight: bold;
 }
 
 
 .colhead .sign {
 	padding: 0px 8px 0px 8px;
 	font-size: 12pt;
-	font-weight: 500;
+	font-weight: bold;
 }
 
 .colhead_dark {
@@ -534,7 +534,7 @@ td.colhead, .colhead td, .colhead th {
 }
 
 td.label {
-	font-weight: 500;
+	font-weight: bold;
 	text-align: right;
 	width: 180px;
 	line-height: 24px;
@@ -550,7 +550,7 @@ table.slice {
 	background-color: #AF2525;
 	text-align: center;
 	color: white;
-	font-weight: 500;
+	font-weight: bold;
 }
 
 .save_message {
@@ -559,7 +559,7 @@ table.slice {
 	background-color: #F4E649;
 	text-align: center;
 	color: #492802;
-	font-weight: 500;
+	font-weight: bold;
 }
 
 .elem_error {
@@ -634,7 +634,7 @@ table.release_table {border-top: 2px solid #2aa198;}
 }
 
 .torrent_table tr.group {
-	font-weight: 500;
+	font-weight: bold;
 }
 
 .torrent_table tr.group {
@@ -910,7 +910,7 @@ ul .invitetree {
 .spellcheck {
 	margin: 25px 0;
 	font-size: 1.25em;
-	font-weight: 500;
+	font-weight: bold;
 }
 
 tr.torrent .bookmark > a:before {
@@ -1245,5 +1245,5 @@ img.scale_image {
 #discog_table .box a {margin-right: 8px;}
 #discog_table .box a.brackets:before {content: "";}
 #discog_table .box a.brackets:after {content: ">>";padding-left: 2px;font-size: 0.8em;}
-.linkbox a.brackets {font-weight: 500;}
+.linkbox a.brackets {font-weight: bold;}
 .tl_snatched {color: #859900;}
