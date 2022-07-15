@@ -419,7 +419,7 @@ img, img:before {
 
 .sidebar {
   float: right;
-  width: 28.57143%;
+  width: 20%;
   padding-left: 2px; }
   .sidebar-cover-image {
     max-width: 100%; }
