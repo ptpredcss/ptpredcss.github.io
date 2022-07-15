@@ -106,7 +106,8 @@ body#requests .page__title ~ .linkbox:not(:last-of-type):first-of-type:before, #
   display: block;
   width: 100%;
   background-size: cover;
-  background-position: center; }
+  background-repeat: no-repeat;
+  background-position: top center; }
 
 [class$=__title-row], .release-name-movie-list__movie__release-category + td, body#collages .thin > .table td:nth-child(2) > a {
   font-size: 12px;
@@ -1593,7 +1594,7 @@ body#torrents div[id^="trumpable"] {
     border-radius: 2px !important; }
 
 .last5-movies__link {
-  height: 300px; }
+  height: 348px; }
 
 .last5-movies__show-all-row td {
   text-align: center;
