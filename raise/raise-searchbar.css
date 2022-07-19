@@ -1139,8 +1139,6 @@ a[class*="link--seen"] {
     .cover-movie-list--narrow .cover-movie-list__movie {
       -ms-flex-preferred-size: 25%;
       flex-basis: 25%; }
-    .cover-movie-list--narrow .cover-movie-list__movie__cover-link {
-      height: 246px !important; }
   .cover-movie-list__movie {
     -ms-flex-preferred-size: 20%;
     flex-basis: 20%;
