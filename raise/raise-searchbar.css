@@ -1215,7 +1215,7 @@ a[class*="link--seen"] {
   flex-basis: 20%;
   padding: 6px; }
   .small-cover-movie-list__movie__link {
-    height: 192px; }
+    height: 354px; }
 
 .basic-movie-list .release-name-movie-list__details-row:nth-of-type(even) {
   background: rgba(255, 255, 255, 0.03); }
