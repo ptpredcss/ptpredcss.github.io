@@ -2012,13 +2012,13 @@ body#staff .thin > div:nth-of-type(2) {
   position: relative; }
 
 .site-logo {
-  height: 288px;
-  margin-top: 17px; }
+  height: 108px;
+  margin-top: 18px; }
   .site-logo a {
     display: block;
     width: 100%;
     height: 100%;
-    background: url(../solarized_ptp/logo.jpg) no-repeat center;
+    background: url(https://dl.dropboxusercontent.com/s/e67054tos08mvui/logo-neutral.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -2037,7 +2037,7 @@ body#staff .thin > div:nth-of-type(2) {
 
 #userinfo_username {
   font-size: 0;
-  top: -1000px; }
+  top: -1180px; }
   #userinfo_username a {
     font-size: 11px; }
   #userinfo_username:before {
@@ -2050,7 +2050,7 @@ body#staff .thin > div:nth-of-type(2) {
     font-size: 28px;
     color: rgba(255, 255, 255, 0.7); }
   #userinfo_username:hover {
-    top: 344px; }
+    top: 164px; }
     #userinfo_username:hover:before {
       margin-top: 0; }
 
@@ -2392,7 +2392,7 @@ body#staff .thin > div:nth-of-type(2) {
 #userinfo_minor {
   font-size: 0;
   z-index: 150;
-  top: -1000px;
+  top: -1180px;
   background: #964e8e; }
   #userinfo_minor a {
     font-size: 11px; }
@@ -2412,7 +2412,7 @@ body#staff .thin > div:nth-of-type(2) {
     font-size: 20px;
     background-color: #842f7a; }
   #userinfo_minor:hover {
-    top: 410px; }
+    top: 230px; }
     #userinfo_minor:hover:before {
       margin-top: 0;
       background-color: #964e8e; }
