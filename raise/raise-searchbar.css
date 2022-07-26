@@ -654,7 +654,6 @@ img, img:before {
     background: #B3E725; }
 
 .star-rating {
-  margin: 0 auto;
   width: 170px;
   height: 20px;
   list-style: none;
@@ -1720,7 +1719,6 @@ body#torrents .thin > .page__title + h2.text--center {
   flex-grow: 1;
   width: auto !important;
   padding: 0;
-  text-align: center;
   font-weight: 400; }
 
 #movie-ratings-table img {
