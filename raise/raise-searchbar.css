@@ -69,7 +69,7 @@ a[onclick^=ToggleTagSelector], [class$=__new]:before, [class$=__bookmark] a, [cl
 #content > p, .thin > p, .panel, .table--panel-like, .huge-movie-list__movie, .cover-movie-list__movie__undercover, .forum-post, #related-topics-tab, body#inbox .pagination--top + div, #dnu_header + p {
   width: 100%;
   margin-bottom: 2px;
-  background: #2B2B2B; }
+  background: rgba(0,0,0,0.32); }
   #content > small, .thin > small, .sidebar > p,
   .sidebar > h3, .page__title, .heading--small-bottom-margin, body#torrents .thin > .page__title + h2.text--center, body#artist [id^=role_] > h2, .subscribed_collages_table td, #top10 #content > h2, body#bprate #content > h2, .panel__heading, .table--panel-like > thead > tr > td, .table--panel-like > thead > tr > th, .toggleable-search-form__toggler-container, .simplemodal-data h2, .huge-movie-list__movie__title-row, .forum-post__heading, #getmorenews, #dnu_header {
     position: relative;
@@ -81,7 +81,7 @@ a[onclick^=ToggleTagSelector], [class$=__new]:before, [class$=__bookmark] a, [cl
     text-transform: uppercase;
     white-space: nowrap;
     overflow: hidden;
-    background: #232323; }
+    background: rgba(0,0,0,0.24); }
     #content > small, .thin > small, .sidebar > p,
     .sidebar > h3, .page__title, .heading--small-bottom-margin, body#torrents .thin > .page__title + h2.text--center, body#artist [id^=role_] > h2, .subscribed_collages_table td, #top10 #content > h2, body#bprate #content > h2 {
       margin-bottom: 2px; }
@@ -200,7 +200,7 @@ html, body {
   height: 100%; }
 
 body {
-  background: #1A1A1A;
+  background: transparent;
   color: #FFF;
   font-family: 'Roboto';
   font-size: 12px;
@@ -468,7 +468,7 @@ img, img:before {
     font-size: 14px; }
 
 .tabs__bar {
-  background: #2B2B2B;
+  background: rgba(0,0,0,0.32);
   margin-bottom: 2px; }
   .tabs__bar__list {
     display: -webkit-box;
@@ -2300,7 +2300,7 @@ body#staff .thin > div:nth-of-type(2) {
     align-items: center;
     list-style: none;
     padding: 6px 3px;
-    background: #2B2B2B; }
+    background: rgba(0,0,0,0.32); }
   .search-bar__search-field {
     -webkit-box-flex: 1;
     -ms-flex-positive: 1;
@@ -2448,7 +2448,7 @@ body#staff .thin > div:nth-of-type(2) {
   padding: 8px 12px;
   text-align: center;
   font-weight: 400;
-  background: #2B2B2B; }
+  background: rgba(0,0,0,0.32); }
   .alert-bar a {
     color: #FFF; }
   .alert-bar:nth-of-type(1) {
